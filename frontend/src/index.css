@@ -27,6 +27,9 @@ main {
   background-color: #f0c040;
   color: #000000;
 }
+.img-thumbnail {
+  height: 80px;
+}
 .rating span {
   color: #ffc000;
 }
